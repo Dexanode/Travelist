@@ -96,10 +96,10 @@ class MyHomePage extends StatelessWidget {
                           margin: EdgeInsets.symmetric(horizontal: 5.0),
                           decoration: BoxDecoration(color: Colors.amber),
                           child: Image.asset(i, fit: BoxFit.cover),
-                         // child: Text(
-                         //   'text $i',
-                         //   style: TextStyle(fontSize: 16.0),
-                         // ),
+                          // child: Text(
+                          //   'text $i',
+                          //   style: TextStyle(fontSize: 16.0),
+                          // ),
                         );
                       },
                     );
