@@ -39,7 +39,7 @@ class MyHomePage extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                Text("Travel",
+                Text("Travelist",
                     style: TextStyle(color: Colors.white, fontSize: 24.0)),
                 SizedBox(height: 8.0),
                 Container(
